@@ -1,6 +1,8 @@
 .DS_Store
 .env
 .env.*
+!.env.example
+!admin/.env.example
 node_modules/
 admin/node_modules/
 dist/
