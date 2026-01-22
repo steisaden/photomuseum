@@ -1,0 +1,16 @@
+# Prompt Improvement Report
+
+## Original Prompt
+...
+
+## Improved Prompt
+...
+
+## What Changed (5–10 bullets)
+- ...
+
+## Reusable Template
+...
+
+## Quick Checklist
+- ...

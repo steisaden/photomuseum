@@ -1,0 +1,82 @@
+{
+    "project_name": "Antigravity Museum Galaxy",
+    "museums": [
+        {
+            "id": "museum_circle",
+            "name": "The Circle",
+            "theme": "Portraits",
+            "position": [
+                0,
+                0,
+                -50
+            ],
+            "frames": [
+                {
+                    "id": "frame_c1",
+                    "title": "Portrait of Silence",
+                    "year": "2024",
+                    "texture": "https://via.placeholder.com/512/ff8888/ffffff?text=Portrait",
+                    "position": [
+                        0,
+                        2,
+                        -4
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "id": "frame_c2",
+                    "title": "Gaze",
+                    "year": "2023",
+                    "texture": "https://via.placeholder.com/512/884444/ffffff?text=Gaze",
+                    "position": [
+                        3,
+                        2,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        -1.57,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "museum_square",
+            "name": "The Square",
+            "theme": "Street",
+            "position": [
+                50,
+                0,
+                -100
+            ],
+            "frames": []
+        },
+        {
+            "id": "museum_triangle",
+            "name": "The Triangle",
+            "theme": "Flowers",
+            "position": [
+                -50,
+                0,
+                -150
+            ],
+            "frames": []
+        },
+        {
+            "id": "museum_x",
+            "name": "The X",
+            "theme": "Sports",
+            "position": [
+                0,
+                0,
+                -200
+            ],
+            "frames": []
+        }
+    ]
+}

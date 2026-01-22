@@ -1,0 +1,16 @@
+# Monetization Strategy
+
+## What stays free
+- ...
+
+## What is paid
+- ...
+
+## Pricing hypotheses
+- ...
+
+## Upgrade UX
+- ...
+
+## Risks
+- ...
