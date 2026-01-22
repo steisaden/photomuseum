@@ -5,6 +5,10 @@
 
   ## Running the code
 
+  ## Environment setup
+
+  Copy `.env.example` to `.env` and fill in your values. For the admin app, copy `admin/.env.example` to `admin/.env`.
+
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
