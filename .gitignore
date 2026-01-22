@@ -1,17 +1,7 @@
-node_modules
 .DS_Store
-dist
 .env
 .env.*
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Vite
-.vite
-
-# IDE
-.vscode
-.idea
+node_modules/
+admin/node_modules/
+dist/
+admin/dist/
